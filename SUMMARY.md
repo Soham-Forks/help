@@ -77,3 +77,8 @@
 * [Welcome bot](store/welcome-bot.md)
 * [Help bot](store/help-bot.md)
 * [SRB Demo Keyboard Tools](store/srb-demo-keyboard-tools.md)
+
+## Api Reference
+
+* [Api Class](api-reference/api-class.md)
+* [API Methods](api-reference/api-methods.md)
