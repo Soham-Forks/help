@@ -80,5 +80,5 @@
 
 ## Api Reference
 
-* [Api Class](api-reference/api-class.md)
+* [Telegram Api Class](api-reference/telegram-api-class.md)
 * [API Methods](api-reference/api-methods.md)
